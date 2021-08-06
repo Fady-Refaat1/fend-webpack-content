@@ -7,7 +7,7 @@
     "start": "node src/server/index.js",
     "build": "webpack"
   },
-  "devDependencies":{
+  "devDependencies": {
     "webpack-dev-server": "^3.11.0"
   },
   "keywords": [],
